@@ -3,3 +3,8 @@ Whether you're a beginner or an experienced developer, this project is perfect f
 
 
 
+
+<img src="https://github.com/AshanIndrajith/React-simple-frontEnd-design/blob/main/RestaurantHome.png">
+
+
+
